@@ -1,0 +1,33 @@
+@CHARSET "EUC-KR";
+   .sharebox{
+      width:200px;
+      height:230px;
+      border: solid 1px #eee;
+      border-radius: 3px;
+      background-color: white;
+      border-color: black;
+      margin-left: 150px;
+      margin-top: 30px;
+      cursor: pointer;
+      position: relative;
+      float: left; 
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

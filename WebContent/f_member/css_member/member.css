@@ -1,0 +1,199 @@
+@CHARSET "EUC-KR";
+
+#login_img{
+	margin-left: 740px;
+	margin-top: 100px;
+}
+
+#loginbox{
+	width: 300px;
+	margin-left: 645px;
+	margin-top: 10px;
+	
+}
+
+#passbox{
+	width: 300px;
+	margin-left: 645px;
+}
+
+#log{
+	width: 80px;
+	margin-left: 625px;
+}
+
+#join{
+	width: 80px;
+
+}
+
+#search{
+   width:170px;
+
+}
+
+#naverlog{
+	width: 300px;
+	height:50px; 
+	margin:auto;
+	margin-top: 20px;
+	
+}
+
+#log2{
+	width: 100px;
+	margin-left: 695px;
+	margin-top: 10px;
+}
+
+#join2{
+	width: 100px;
+	margin-top: 10px;
+
+}
+
+#loginbox2{
+	width: 300px;
+	margin-left: 645px;
+	margin-top: 10px;
+	
+}
+
+#namebox{
+	width: 300px;
+	margin-left: 645px;
+}
+#passbox2{
+	width: 300px;
+	margin-left: 645px;
+}
+
+#passcheckbox2{
+	width: 300px;
+	margin-top:-15px;
+	margin-left: 645px;
+}
+
+#nicknamebox{
+	width: 300px;
+	margin-left: 645px;
+}
+
+
+#checklist1{
+    overflow: scroll;
+    width: 300px;
+    height: 200px;
+    margin-top: -5px;
+    margin-left: 485px;
+     float: left;
+}
+
+
+#checktitle1{
+	margin-top: 30px; 
+	margin-left: 485px;	
+}
+
+
+
+#checklist2{
+    overflow: scroll;
+    width: 300px;
+    height: 200px;
+    margin-top: -8px;
+    margin-left: 815px;
+}
+
+
+#checktitle2{
+	margin-top: -38px; 
+	margin-left: 815px;	
+}
+
+
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+  margin-top: -50px; 
+  margin-left: 755px;	
+}
+
+#check2 {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+  margin-top: -50px; 
+  margin-left: 300px;	
+}
+
+
+.bgimg{
+	background-image: url('/webProject/f_member/img_member/bg_img.png');
+	background-repeat:no-repeat;
+	margin-top :-2px;
+}
+
+#message{
+	text-align: center;
+	font-family: "±¼¸²" ;
+	font-size: 20pt;
+	font-weight: bold;
+}
+
+
+#login_img_success{
+	margin-left: 740px;
+	margin-top: 100px;	
+}
+
+#login_text_success{
+	width:250px;
+	height:250px;
+	margin-left: 640px;
+	margin-top: 280px;
+	/* margin-top: 230px;	 */
+}
+
+
+#change{
+	width: 100px;
+	margin-left: 640px;
+	margin-top: 10px;
+}
+
+#cancle{
+	width: 100px;
+	margin-top: 10px;
+
+}
+
+#out{
+	width: 100px;
+	margin-top: 10px;
+
+}
+
+.remove{
+	width: 20px;
+	height: 20px;
+}
+
+.check{
+	width: 20px;
+	height: 20px;
+}
+
+
+
+
+
